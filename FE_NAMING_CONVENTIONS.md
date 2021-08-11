@@ -316,4 +316,5 @@ const properties = { ...defaultProperties, firstName: 'Brett' };
 ## References
 
 https://github.com/airbnb/javascript#naming-conventions
+
 https://github.com/kettanaito/naming-cheatsheet
