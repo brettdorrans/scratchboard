@@ -298,7 +298,7 @@ const [state, setState] = useState(firstState);
 
 // good
 const initialState = {};
-const [state, setState] => useState(initialState);
+const [state, setState] = useState(initialState);
 ```
 
 * When setting defaults, use the `default` verb prefix.
